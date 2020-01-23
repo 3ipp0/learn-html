@@ -6,6 +6,7 @@
 Ресурси:
 2 - https://www.internet-technologies.ru/articles/vazhnye-meta-tegi-dlya-socialnyh-setey.html
 3 - https://ruseller.com/lessons.php?id=1959
+
 ![main](/screenshots/lesson_1/les_1_index.png)
 
 Завдання № 2:
@@ -19,10 +20,10 @@
 ### folder name: 3ipp0_second_homework
 Завдання 1: Створити дві сторінки із формами:
 - Сторінка реєстрації (мінімум 5 полів). Логін та пароль обов'язкові для заповнення.
-- Сторінка авторизації
-// Використайте якомога більше елементів форми та їх атрибутів
-![auth](/screenshots/lesson_2/les_2_auth_form.png)
 ![reg](/screenshots/lesson_2/les_2_registration_form.png)
+- Сторінка авторизації
+![auth](/screenshots/lesson_2/les_2_auth_form.png)
+// Використайте якомога більше елементів форми та їх атрибутів
 
 Завдання 2:
 За допомогою списків сформуйте технічне завдання на розробку інтернет магазину (довільна тематика).
