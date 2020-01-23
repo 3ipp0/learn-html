@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Друга домашня робота - by 3ipp0</title>
+    </head>
+    <body>
+        <h1>Сторінка авторизації:</h1>
+        <form action="#" method="post" autocomplete="on">
+            <label>E-mail:</label>
+            <input type="email" name="user_login" placeholder="Введіть свій емейл..." maxlength="30" required><br><br>
+            <label>Пароль:</label>
+            <input type="password" name="user_password" placeholder="Введіть пароль..." maxlength="25" required>
+            <input type="hidden" name="user_id" value="userId"><br>
+            <label>
+                <input type="checkbox" name="user_save_session"> Запам'ятати?
+            </label>
+            <p><a href="reset.html">Забули логін чи пароль?</a></p>
+            <input type="submit" name="user_auth" value="Ввійти!">
+        </form>
+            <p>Ще не маєте аккаунту? <a href="reg.html">Зареєструйтесь!</a></p>
+            <!-- Так не бажано робити? -->
+            <a href="reg.html"><button type="button" name="button_register" disabled>Зареєструватись...</button></a>
+            <br><br><br>
+            <p><a href="ex2.html"><strong>ЗАВДАННЯ ДВА!</strong></a></p>
+    </body>
+</html>

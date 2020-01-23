@@ -1,0 +1,44 @@
+body{
+    color: #353b48;
+    background-color: #d2dae2;
+    font-size: 22px;
+}
+.main_table{
+    text-align: center;
+    vertical-align: middle;
+    background-color: #d2dae2;
+}
+.main_table tr{
+    background-color: #d1ccc0;
+}
+.menu{
+    font-size: 22px;
+}
+h2{
+    color: #353b48;
+    font-size: 30px;
+}
+h3{
+    color: #353b48;
+    font-size: 27px
+}
+li{
+    color: #353b48;
+    font-size: 22px;
+}
+tr.to_footer{
+    background-color: #718093;
+}
+tr.footer{
+    background-color: #1e272e;
+    color: #d2dae2;
+}
+a{
+    color: #FD7272;
+}
+a:visited{
+    color: #82589F;
+}
+a:active{
+    color: #55E6C1;
+}

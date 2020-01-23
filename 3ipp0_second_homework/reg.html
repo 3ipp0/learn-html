@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Сторінка реєстрації - by 3ipp0</title>
+    </head>
+    <body>
+        <h1>Сторінка реєстрації:</h1>
+        <p>Вже маєте аккаунт? <a href="index.html">Перейдіть на сторінку авторизації!</a></p>
+        <form action="index.html" method="post" autocomplete="off" title="Введіть ваші дані для реєстрації...">
+            <label>E-mail: *</label>
+            <input type="email" name="user_login" placeholder="Введіть свій емейл..." maxlength="30" required><br><br>
+            <label>Пароль: *</label>
+            <input type="password" name="user_password" placeholder="Введіть пароль..." maxlength="25" required><br><br>
+            <label>Повторіть пароль: *</label>
+            <input type="password" name="user_password" placeholder="Введіть пароль знову..." maxlength="25" required><br><br>
+            <fieldset>
+                <legend>Додаткові дані:</legend>
+                <label>Ім'я:</label>
+                <input type="text" name="user_first_name" placeholder="Введіть імя...">
+                <br><br>
+                <label>Прізвище:</label>
+                <input type="text" name="user_second_name" placeholder="Введіть прізвище...">
+                <br><br>
+                <label>Номер телефону:</label>
+                <input type="tel" name="user_phone_number" placeholder="Введіть номер телефону...">
+                <br><br>
+                <label>Країна:</label>
+                <select name="user_county">
+                    <optgroup label="Європа">
+                        <option value="1">Україна</option>
+                        <option value="2">Італія</option>
+                        <option value="3">Німеччина</option>
+                    </optgroup>
+                    <optgroup label="Америка">
+                        <option value="4">США</option>
+                        <option value="5">Канада</option>
+                    </optgroup>
+                </select>
+                <br>
+                <label>Дата народження:</label>
+                <input type="date" name="user_birthday">
+                <br>
+                <label>Додаткова інформація про себе:</label>
+                <textarea name="user_addict_info" rows="3" cols="30">Пишіть свій текст тут...</textarea>
+                <br>
+                <label>Прикріпити файл:</label>
+                <input type="file" name="user_file">
+            </fieldset>
+            <label>
+                <input type="checkbox" name="user_save_session"> Згоджуюсь із <a href="rules.html">правилами сайту</a>!
+            </label>
+            <br>
+            <label>
+                <input type="checkbox" name="user_save_session"> Підписатись на розсилку!
+            </label>
+            <br><br>
+            <input type="submit" name="user_auth" value="Зареєструватись!">
+        </form>
+    </body>
+</html>
