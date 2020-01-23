@@ -51,13 +51,13 @@
 ### folder name: 3ipp0_fifth_homework
 ДЗ: Маючи отримані знання із css/html, спробувати зверстати сторінку "ТОП 10" фільмів на вашу улюблену тематику.
 Підберіть один загальний стиль для всієї сторінки, аби елементи виглядали гармонійно.
-![top_films](/screenshots/lesson_5/lesson_5_top_films.png)
+![top_films](/screenshots/lesson_5/lesson_5_top_films.jpg)
 
 ## Lesson 6
 ### folder name: 3ipp0_sixth_homework
 Д3: Створити сайт який буде містити: випадаюче меню, список матеріалів де використано позиціонування.
 В домашній роботі треба задіяти: display (block, inline, inline-block, none),
 position: (absolute, relative, fixed).
-![top_films_remake_with_menu](/screenshots/lesson_6/lesson_6_top_films_remake_with_menu.png)
+![top_films_remake_with_menu](/screenshots/lesson_6/lesson_6_top_films_remake_with_menu.jpg)
 
 *screenshots was taken in resolution 1920x1080 (FullHD)*
