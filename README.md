@@ -34,18 +34,18 @@
 ### folder name: 3ipp_third_homework
 - використовуючи таблиці, зверстати сторінку сайту на довільну тематику
 (розбити колонки таблички і оформити їх, аби це було схоже на повноцінний сайт. Не жалійте часу і коду.)
-- використовуючи таблиці, реалізувати табличку множення 10х10
 ![tables](/screenshots/lesson_3/lesson_3_index_tables.jpg)
+- використовуючи таблиці, реалізувати табличку множення 10х10
 ![multiply](/screenshots/lesson_3/lesson_3_multiply.png)
 
 ## Lesson 4
 ### folder name: 3ipp0_forth_homework
 1 - до домашнього завдання №3 (таблична верстка - застосувати отриманні на занятті знання css) - вдосконалити свою верстку.
+![tables_css](/screenshots/lesson_4/lesson_4_tables_css.jpg)
 2 - реалізувати стрічку новин, використовуючи заготовку із заняття.
 Завдання: використати побільше стилів для задання заголовку, контенту, зображення, дати публікації.
 Головне - якість, а не кількість.
 ![news](/screenshots/lesson_4/lesson_4_news.png)
-![tables_css](/screenshots/lesson_4/lesson_4_tables_css.jpg)
 
 ## Lesson 5
 ### folder name: 3ipp0_fifth_homework
